@@ -1,6 +1,6 @@
 # Bike Sales Dashboard (Excel)
 
-##Overview
+## Overview
 
 This project presents an interactive Bike Sales Dashboard built in Microsoft Excel to analyze customer demographics and purchasing behavior. The dashboard enables quick, visual insights into how income, age, and commute distance relate to bike purchases.
 
